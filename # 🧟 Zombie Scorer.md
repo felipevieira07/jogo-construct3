@@ -1,8 +1,9 @@
 # 🧟 Zombie Scorer
 
 ## 🎮 Descrição
-**Zombie Scorer** é um jogo de sobrevivência 2D onde você deve fugir dos zumbis e somar o máximo de pontos possível.  
-A cada inimigo evitado ou eliminado, sua pontuação aumenta. Sobreviva o quanto puder e marque seu recorde!
+**Zombie Scorer** Corra, desvie, elimine inimigos e some o máximo de pontos possível!
+Cada zumbi derrotado aumenta sua pontuação.
+Não há fim, só recorde! Quanto mais tempo sobreviver e derrubar os zumbi, maior será sua chance de entrar para o topo!
 
 ---
 
@@ -14,7 +15,6 @@ A cada inimigo evitado ou eliminado, sua pontuação aumenta. Sobreviva o quanto
 ## 🎯 Objetivo
 - Fugir ou eliminar zumbis.
 - Acumular pontos a cada inimigo derrotado.
-- Bater seu próprio recorde de sobrevivência!
 
 ---
 
