@@ -1,7 +1,6 @@
 # 🧟 Zombie Scorer
 
 ## 🎮 Descrição
-<<<<<<< HEAD
 **Zombie Scorer** 
 É um jogo de ação frenética onde sua missão é sobreviver ao maior número possível de zumbis!
 Corra, desvie, atire e acumule pontos a cada inimigo derrotado.
